@@ -1,0 +1,29 @@
+id: PCA3C26E9
+initial_creation_type: ocr
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA29032
+  instance_id: http://purl.bdrc.io/resource/IE29032
+  collection_id: http://purl.bdrc.io/resource/PR0ET009
+  language_id: http://purl.bdrc.io/resource/LangBo
+  title:
+    bo:
+    - སྒྲ་དང་སྡེབ་སྦྱོར།
+  alt_title: {}
+  author: http://purl.bdrc.io/resource/P1457
+  publisher: UCB-OCR
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  volumes:
+    eb5a0b1c2e8443a7894de29a5529d611:
+      title: པོད ༡་སྒྲ་དང་སྡེབ་སྦྱོར
+      volume_number: 1
+      base_file: UT29032_5740_0000.txt
+      reference: http://purl.bdrc.io/resource/VLD3B62A300D6015D1
+      image_group: '5740'
+      quality: Low
+  reproductionOf:
+  - http://purl.bdrc.io/resource/MW29032
+  - http://purl.bdrc.io/resource/W29032
+  ocr_software: Namsel
+created_at: '2021-12-22T11:12:02.195568'
+last_modified_at: '2021-12-22T11:12:02.195575'
